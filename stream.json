@@ -144,7 +144,7 @@
     {
       "id": 5,
       "category": "Regional",
-      "title": "ADI TV",
+      "title": "Jak TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
@@ -233,6 +233,33 @@
     },
     {
       "id": 15,
+      "category": "World, News",
+      "title": "Bali Tv",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+      "user_agent": ""
+    },
+	{
+      "id": 16,
+      "category": "World, News",
+      "title": "Moji Tv",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+      "user_agent": ""
+    },
+	{
+      "id": 17,
+      "category": "World, News",
+      "title": "NHK Worl Japan",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+      "user_agent": ""
+    },
+    {
+      "id": 18,
       "category": "News, National",
       "title": "CNN Indonesia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
