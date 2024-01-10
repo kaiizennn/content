@@ -135,10 +135,10 @@
     {
       "id": 4,
       "category": "Entertainment, National",
-      "title": "Trans tv",
+      "title": "Trans7",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
-      "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV)[1] adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7.",
-      "streaming_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2019895764_b544100_sleng.m3u8",
+      "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 pukul 17:00 WIB. Pada tanggal 4 Agustus 2006, Trans Corp menjajaki kerja sama strategis dengan Kompas Gramedia untuk mengakuisisi saham TV7 dan melakukan relaunch (peluncuran ulang) pada tanggal 15 Desember 2006 pukul 19:00 WIB menggunakan nama baru, menjadi Trans",
+      "streaming_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1785191647_b544100_sleng.m3u8",
       "user_agent": ""
     },
     {
@@ -218,8 +218,8 @@
       "category": "Entertainment, National",
       "title": "Trans TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/transtv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/transtv.mp4",
+      "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV)[1] adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7.",
+      "streaming_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2019895764_b544100_sleng.m3u8",
       "user_agent": ""
     },
     {
