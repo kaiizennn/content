@@ -145,7 +145,7 @@
       "id": 5,
       "category": "Regional",
       "title": "Jak TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/jaktv.png",
       "description": "Jak TV adalah sebuah stasiun televisi swasta lokal di Indonesia yang memfokuskan siarannya di wilayah Jabodetabek. Stasiun televisi yang dimiliki oleh MahakaX ini menargetkan penonton primer berusia 30 tahun keatas dan penonton sekunder berusia 20 tahun keatas. Jak TV mengudara untuk pertama kalinya dalam bentuk siaran ujicoba pada tanggal 31 Oktober 2004, pukul 19.00 WIB di Jakarta.",
       "streaming_url": "https://cdn11jtedge.indihometv.com/atm/HLS-10s/JAK_TV/JAK_TV-avc1_400000=7.m3u8?encp=l2mPLDuoVLO36Pd5xB-zoA&uid=&expp=1704946363",
       "user_agent": ""
@@ -235,7 +235,7 @@
       "id": 15,
       "category": "World, News",
       "title": "Bali Tv",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/bali%20tv.png",
       "description": "Bali TV adalah stasiun televisi lokal swasta di Indonesia yang berpusat di Bali, berdiri di bawah kepemimpinan Satria Naradha yang merupakan pemimpin Kelompok Media Bali Post. Kekuatan daya pancar pada saat siaran analog masih aktif adalah 10 kilowatt yang dipancarkan dari Bukit Bakung, desa Kutuh, kecamatan Kuta Selatan, kabupaten Badung di kanal 49 UHF untuk wilayah Denpasar.",
       "streaming_url": "https://cdngb196.indihometv.com/joss/134/balitv/chunklist_w48015513_b1004100_sleng.m3u8?enc=MVNsKJbaCOuRfYzMmgI3Qw&uid=&exp=1704945877",
       "user_agent": ""
@@ -244,7 +244,7 @@
       "id": 16,
       "category": "World, News",
       "title": "Moji Tv",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/moji.png",
       "description": "Moji (digayakan sebagai mOȷı, sebelumnya bernama O Channel) adalah sebuah jaringan televisi swasta di Indonesia yang dimiliki oleh PT Elang Mahkota Teknologi Tbk. O Channel resmi mengudara pada tanggal 16 Juni 2005 di Jakarta, dan mengganti namanya menjadi nama saat ini pada tanggal 21 Agustus 2022.",
       "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704951761~acl=/hls-p/ingest_206_*/*~hmac=65ef3ad25154f77594bb7f9d4899def22564ee8bb3f82e8ecadbeae78cd01787/hls-p/ingest_206_360p/index.m3u8",
       "user_agent": ""
@@ -253,7 +253,7 @@
       "id": 17,
       "category": "World, News",
       "title": "NHK World Japan",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/nhk.png",
       "description": "NHK World-Japan adalah layanan penyiaran internasional dari badan penyiaran umum Jepang NHK yang ditransmisikan melalui televisi, radio, dan Internet. Layanan ini ditujukan untuk pasar internasional, ditayangkan melalui satelit dan operator televisi kabel di seluruh dunia, serupa dengan BBC World News, Deutsche Welle, France 24, dan RT.",
       "streaming_url": "https://origin-cae-d568794.cdn.nextologies.com/00489ab02a9d71cc/wXfEzh7gCnHgIYYY/cfc0a62dTe93673d/playlist.m3u8",
       "user_agent": ""
@@ -280,7 +280,7 @@
       "id": 20,
       "category": "World, News",
       "title": "RTv",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Rtv.png",
       "description": "RTV (pelafalan dalam bahasa Indonesia: [ɛrtifi], singkatan dari Rajawali Televisi, digayakan dengan semuanya huruf kecil) adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Rajawali Corpora. Resmi mengudara pada tanggal 1 November 2009 di Jakarta dengan nama B-Channel, pada tanggal 3 Mei 2014, namanya berganti menjadi RTV. Saat ini, program RTV lebih difokuskan pada acara hiburan, terutama untuk anak-anak dan keluarga.",
       "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704960825~acl=/hls-p/ingest_1561_*/*~hmac=8b0e96994c9c854aebf796d2e493295b2a7c5073343499eb3793268bda4d84af/hls-p/ingest_1561_480p/index.m3u8",
       "user_agent": ""
