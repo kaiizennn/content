@@ -298,21 +298,21 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "Daftar Solar Subsidi",
+      "image": "https://play-lh.googleusercontent.com/ggSXv6DMKy_jFo_sYUG7M8Mjh7RMdmUMjkl46mlB801aQOhwwZQkWClhhmc7BtWHO5Q=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsydev.cara_daftar_bbm_pertalite_subsidi"
     },
     {
       "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "Daftar Shopeefood driver",
+      "image": "https://play-lh.googleusercontent.com/s8E6jmlp8u6xmKa9-P2bF885Ag2bT1-se7tLLZb0Pw-RaC9cWtWmBmbGw-oQRqQuSQ=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsydev.daftar_shopeefood_driver_online"
     },
     {
       "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+      "title": "Cara Daftar Pinjol",
+      "image": "https://play-lh.googleusercontent.com/r1Q4Pt8UNsKNS6nWEdCPTGTlWjAVGo39GJaahOPHTOfjMHNUQ5_4TNP30gF47bV2A5g=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.arsydev.pinjol_cepat_cair_24jam"
     }
   ]
 }
