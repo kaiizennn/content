@@ -183,7 +183,7 @@
       "title": "Aljazeera",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aljazeera.png",
       "description": "Al Jazeera (الجزيرة yang berarti pulau atau jazirah ) adalah stasiun televisi berbahasa Arab dan Inggris yang berbasis di Doha, Qatar. Stasiun TV ini menjadi populer setelah serangan 11 September 2001, ketika stasiun ini menyiarkan rekaman pernyataan Osama bin Laden dan pimpinan al-Qaeda lainnya. Selain saluran berita utama, Al Jazeera juga mengoperasikan beberapa saluran TV khusus lainnya, antara lain Al Jazeera English, Al Jazeera Sports, Al Jazeera Live, dan Al Jazeera Children's Channel. Selain itu, Al Jazeera juga mengoperasikan situs web berita berbahasa Arab dan Inggris.",
-      "streaming_url": "https://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+      "streaming_url": "https://etslive-2-vidio-com.secureswiftcontent.com/exp=1704951433~acl=/hls-p/ingest_6410_*/*~hmac=2124c5c5c541b0e10af77503c8a7c48ee1e78c7a427f531a0be9ae135dc2c5c6/hls-p/ingest_6410_480p/index.m3u8",
       "user_agent": ""
     },
     {
@@ -237,7 +237,7 @@
       "title": "Bali Tv",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
       "description": "Bali TV adalah stasiun televisi lokal swasta di Indonesia yang berpusat di Bali, berdiri di bawah kepemimpinan Satria Naradha yang merupakan pemimpin Kelompok Media Bali Post. Kekuatan daya pancar pada saat siaran analog masih aktif adalah 10 kilowatt yang dipancarkan dari Bukit Bakung, desa Kutuh, kecamatan Kuta Selatan, kabupaten Badung di kanal 49 UHF untuk wilayah Denpasar.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+      "streaming_url": "https://cdngb196.indihometv.com/joss/134/balitv/chunklist_w48015513_b1004100_sleng.m3u8?enc=MVNsKJbaCOuRfYzMmgI3Qw&uid=&exp=1704945877",
       "user_agent": ""
     },
 	{
@@ -255,7 +255,7 @@
       "title": "NHK World Japan",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
       "description": "NHK World-Japan adalah layanan penyiaran internasional dari badan penyiaran umum Jepang NHK yang ditransmisikan melalui televisi, radio, dan Internet. Layanan ini ditujukan untuk pasar internasional, ditayangkan melalui satelit dan operator televisi kabel di seluruh dunia, serupa dengan BBC World News, Deutsche Welle, France 24, dan RT.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+      "streaming_url": "https://origin-cae-d568794.cdn.nextologies.com/00489ab02a9d71cc/wXfEzh7gCnHgIYYY/cfc0a62dTe93673d/playlist.m3u8",
       "user_agent": ""
     },
     {
