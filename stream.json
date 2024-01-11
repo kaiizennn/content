@@ -76,32 +76,32 @@
     {
       "id": 1,
       "name": "News",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/News.png"
     },
     {
       "id": 2,
       "name": "Entertainment",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/entertainment.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Entertaiment.png"
     },
     {
       "id": 3,
       "name": "Religion",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/religion.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Religion.png
     },
     {
       "id": 4,
       "name": "Regional",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Regional.png"
     },
     {
       "id": 5,
       "name": "National",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/national.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/National.png"
     },
     {
       "id": 6,
       "name": "World",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
+      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/World.png"
     }
   ],
   "channels": [
