@@ -249,7 +249,7 @@
       "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704951761~acl=/hls-p/ingest_206_*/*~hmac=65ef3ad25154f77594bb7f9d4899def22564ee8bb3f82e8ecadbeae78cd01787/hls-p/ingest_206_360p/index.m3u8",
       "user_agent": ""
     },
-	{
+    {
       "id": 17,
       "category": "World, News",
       "title": "NHK World Japan",
@@ -260,6 +260,33 @@
     },
     {
       "id": 18,
+      "category": "World, News",
+      "title": "Metro Tv",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "description": "MetroTV adalah sebuah jaringan televisi swasta berita yang berkedudukan di Indonesia. MetroTV didirikan oleh PT Media Televisi Indonesia, resmi mengudara sejak 25 November 2000 di Jakarta. Pada awalnya didirikan sebagai perusahaan patungan antara Media Group dan Bimantara Citra, sejak Oktober 2003 MetroTV seluruhnya dimiliki oleh Media Group; yang juga memiliki harian Media Indonesia dan Lampung Post.",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704967982/ei/zWqfZdb8O8vRjuMPsIyr6Ac/ip/2404%3Ac0%3A7040%3A0%3A0%3A0%3Ad88b%3A7bbd/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxeLPPKusIXFNw1gVs-QZKsFL3VsYo1aWr2_Sa5xJzQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOrkMmMK4zFhUXg-aB7hVWdd8UZ72WPoeebxQnH097aRAiEA2b_Y5j3OCIUEh3gzN2RvYyeLhmLZ5HzYFmXWC9ylvl4%3D/file/index.m3u8",
+      "user_agent": ""
+    },
+	  {
+      "id": 19,
+      "category": "World, News",
+      "title": "Kompas Tv",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "description": "Kompas TV adalah salah satu jaringan televisi swasta nasional di Indonesia yang berfokus pada konten berita. Kompas TV dimiliki oleh KG Media, anak usaha Kompas Gramedia. Diluncurkan awalnya sebagai penyedia konten dengan acara-acara berbasis hiburan pada 9 September 2011, perlahan-lahan statusnya berubah menjadi sebuah jaringan televisi, dan sejak 2016 acaranya menjadi berbasis berita sampai saat ini. Nama Kompas TV diambil dari surat kabar papan atas yang dimiliki oleh Kompas Gramedia, yaitu harian Kompas.",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704967911/ei/h2qfZZ7cIt7a4t4P286QqA8/ip/2404%3Ac0%3A7040%3A0%3A0%3A0%3Ad88b%3A7bbd/id/BBzdSRt-zSQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzMBxk3LHadSBtIj6qW-4E4cVX7Q7lCZ87-0EbvHEuU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJuTfyUEtE4LsPg9cWyA1r_IJFT-y7goz323aTQ5AvuGAiEA1XOQnAchBnR6McjntNwBIUPFl8GG7A2MMYiJtEzfbzE%3D/file/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 20,
+      "category": "World, News",
+      "title": "RTv",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
+      "description": "RTV (pelafalan dalam bahasa Indonesia: [ɛrtifi], singkatan dari Rajawali Televisi, digayakan dengan semuanya huruf kecil) adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Rajawali Corpora. Resmi mengudara pada tanggal 1 November 2009 di Jakarta dengan nama B-Channel, pada tanggal 3 Mei 2014, namanya berganti menjadi RTV. Saat ini, program RTV lebih difokuskan pada acara hiburan, terutama untuk anak-anak dan keluarga.",
+      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704960825~acl=/hls-p/ingest_1561_*/*~hmac=8b0e96994c9c854aebf796d2e493295b2a7c5073343499eb3793268bda4d84af/hls-p/ingest_1561_480p/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 21,
       "category": "News, National",
       "title": "CNN Indonesia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
