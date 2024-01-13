@@ -47,8 +47,8 @@
     {
       "book_id": 4,
       "book_name": "Bahasa Inggris",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/inggris.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/inggris.webp",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Inggris_BS_KLS_IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Inggris_BS_KLS_IX_Cover.png",
       "short_description": "modul ini akan memfasilitasi Anda untuk mampu berkomunikasi berkaitan memberi dan meminta informasi terkait pengandaian diikuti oleh perintah/saran, sesuai dengan konteks penggunaannya."
     },
     {
