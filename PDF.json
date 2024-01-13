@@ -86,10 +86,25 @@
     },
     {
       "book_id": 1,
-      "chapter_name": "Bab 1 : Demi Keluarga",
+      "chapter_name": "Bab 1: Demi Keluarga",
       "page_number": "15"
     },
     {
+      "book_id": 1,
+      "chapter_name": "Bab 2: Buku-Buku Berbicara",
+      "page_number": "43"
+    },
+   {
+      "book_id": 1,
+      "chapter_name": "Bab 3: Komunikasi Ujung Jari",
+      "page_number": "79"
+    },
+   {
+      "book_id": 1,
+      "chapter_name": "Bab 4: Dari Hobi Menjadi Pundi-Pund",
+      "page_number": "113"
+    },
+   {
       "book_id": 1,
       "chapter_name": "Daftar Pustaka",
       "page_number": "194"
