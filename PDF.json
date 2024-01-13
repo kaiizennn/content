@@ -25,114 +25,119 @@
   "Book": [
     {
       "book_id": 1,
-      "book_name": "Bahasa Indonesia Kelas IX",
+      "book_name": "Bahasa Indonesia Kelas",
       "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Indonesia-BS-KLS-IX.pdf",
       "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Bahasa-Indonesia-BS-KLS-IX-Cover.png",
       "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
     },
     {
       "book_id": 2,
-      "book_name": "Pendidikan Pancasila",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-IX.pdf",
-      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Pendidikan-Pancasila-BS-KLS-IX-Cover.png",
+      "book_name": "Ilmu Pengetahuan Alam",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS-IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPA-BS-KLS-IX-Cover.png",
       "short_description": "Materi pada modul ini akan memberikan pengetahuan pada kalian tentang\nperkembangan model atom dari masa ke masa mulai dari teori atom kuno yang\ndikemukakan oleh Democritus, teori atom Dalton, J.J Thomson, Rutherford,Niels Bohr"
     },
     {
       "book_id": 3,
-      "book_name": "Matematika",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika_BS_KLS_IX.pdf",
-      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Matematika_BS_KLS_IX_Cover.png",
+      "book_name": "Ilmu Pengetahuan Sosial",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPS-BS-KLS-IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPS-BS-KLS-IX-Cover.png",
       "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
     },
     {
       "book_id": 4,
-      "book_name": "Bahasa Inggris",
+      "book_name": "Bahasa Inggris Kelas XI",
       "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Inggris_BS_KLS_IX.pdf",
       "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Inggris_BS_KLS_IX_Cover.png",
-      "short_description": "modul ini akan memfasilitasi Anda untuk mampu berkomunikasi berkaitan memberi dan meminta informasi terkait pengandaian diikuti oleh perintah/saran, sesuai dengan konteks penggunaannya."
+      "short_description": " Buku English for Nusantara Kelas IX ini akan menemani kalian untuk mengeksplorasi penggunaan Bahasa Inggris dalam lingkungan sekolah, rumah, dan keseharian kalian"
     },
     {
       "book_id": 5,
-      "book_name": "Fisika",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/fisika.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/fisika.webp",
-      "short_description": "Untuk dapat memahami materi Modul ini dengan baik, Anda hendaknya mengerjakan latihan dan evaluasi kemudian mencocokkan hasilnya dengan kunci jawaban yang tersedia di bagian belakang modul ini. "
+      "book_name": "Informatika",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Informatika-BS-KLS-IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Informatika-BS-KLS-IX-Cover.png",
+      "short_description": "Informatika adalah bidang ilmu mengenai studi, perancangan, dan pembuatan sistem komputasi, serta prinsip-prinsip yang menjadi dasar perancangan tersebut "
     },
     {
       "book_id": 6,
-      "book_name": "Ilmu Pengetahuan Sosial",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPS-BS-KLS-IX.pdf",
-      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPS-BS-KLS-IX-Cover.png",
-      "short_description": "Ketahanan Pangan, Industri, dan Energi meliputi: 1) Pengertian ketahanan pangan, bahan industri, serta energi baru dan terbarukan, 2) Potensi dan persebaran sumber daya pertanian, perkebunan, perikanan, dan peternakan untuk ketahanan pangan nasional."
+      "book_name": "Matemtaika Menengah pertama",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika_BS_KLS_IX_Lc.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Matematika_BS_KLS_IX_Lc_Cover.png",
+      "short_description": "Seri Matematika untuk Sekolah Menengah Pertama yang diterbitkan GAKKO TOSHO.Co.LTD, Tokyo-Japan bertujuan untuk mengembangkan siswa belajar matematika oleh dan untuk diri mereka sendiri dengan pemahaman yang komprehensif, apresiasi, dan perluasan lebih lanjut dalam penerapan matematika"
     },
     {
       "book_id": 7,
-      "book_name": "Ilmu Pengetahuan Alam",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS-IX.pdf",
-      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPA-BS-KLS-IX-Cover.png",
-      "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
+      "book_name": "Pendidikan Pancasila",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Pendidikan-Pancasila-BS-KLS-IX-Cover.png",
+      "short_description": "Buku Pendidikan Pancasila ini hadir sebagai salah satu sumber bagi peserta didik untuk mempelajari materi-materi yang terkait dengan Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Bhinneka Tunggal Ika, serta Negara Kesatuan Republik Indonesia."
     }
   ],
   "Chapter": [
     {
       "book_id": 1,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Daftar isi",
+      "page_number": "5"
     },
     {
       "book_id": 1,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Menentukan Suasan, Tema dan Makna dalam Puisi",
-      "page_number": "8"
+      "chapter_name": "Ada Apa di Buku Ini?",
+      "page_number": "13"
     },
     {
       "book_id": 1,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Membaca Puisi dengan Memperhatikan Vokal, Ekspresi, Dan Intonasi Yang Baik",
+      "chapter_name": "Bab 1 : Demi Keluarga",
       "page_number": "15"
     },
     {
       "book_id": 1,
       "chapter_name": "Daftar Pustaka",
-      "page_number": "28"
+      "page_number": "194"
     },
     {
       "book_id": 2,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Daftar isi",
+      "page_number": "5"
     },
     {
       "book_id": 2,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Bentuk Molekul Berdasarkan Teori VSEPR Dan Teori Domain Elektron",
-      "page_number": "8"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Menggambarkan Bentuk Molekul",
-      "page_number": "18"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "30"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kata Pengantar",
-      "page_number": "3"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Daftar Isi",
-      "page_number": "7"
-    },
-    {
-      "book_id": 3,
       "chapter_name": "Petunjuk Penggunaan Buku",
-      "page_number": "17"
+      "page_number": "12"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": "Indeks",
+      "page_number": "195"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "198"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Daftar isi",
+      "page_number": "5"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Tema 01 : Manusia dan Perubahan",
+      "page_number": "8"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Tema 02: Perkembangan Ekonomi Digital",
+      "page_number": "73"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Tema 03: Tantangan Pembangunan Indonesia",
+      "page_number": "135"
     },
     {
       "book_id": 3,
       "chapter_name": "Daftar Pustaka",
-      "page_number": "307"
+      "page_number": "277"
     },
     {
       "book_id": 4,
@@ -141,77 +146,92 @@
     },
     {
       "book_id": 4,
-      "chapter_name": "Kegiatan Pembelajaran 1 ",
-      "page_number": "8"
+      "chapter_name": "Daftar Isi ",
+      "page_number": "6"
     },
     {
       "book_id": 4,
-      "chapter_name": "Kegiatan Pembelajaran 2",
-      "page_number": "14"
+      "chapter_name": "Petunjuk Penggunaan Buku",
+      "page_number": "10"
     },
     {
       "book_id": 4,
       "chapter_name": "Daftar Pustaka",
-      "page_number": "24"
+      "page_number": "376"
     },
     {
       "book_id": 5,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Daftar Isi",
+      "page_number": "5"
     },
     {
       "book_id": 5,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Teori Relativitas Einstein",
-      "page_number": "8"
+      "chapter_name": "Petunjuk Penggunaan Buku",
+      "page_number": "13"
     },
     {
       "book_id": 5,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Dampak Teori Relativitas Einstein",
+      "chapter_name": "Bab 1: Informatika SMP",
       "page_number": "17"
     },
     {
       "book_id": 5,
       "chapter_name": "Daftar Pustaka",
-      "page_number": "30"
+      "page_number": "293"
     },
     {
       "book_id": 6,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Prakata",
+      "page_number": "4"
     },
     {
       "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Karakteristik Lapisan Atmosfer Vumi Serta Unsur-Unsur Cuasa Dan Iklam",
+      "chapter_name": "Petunjuk Penggunaan Buku",
       "page_number": "9"
     },
     {
       "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Kalsifikasi Iklim, Pola Iklim Global, Dan Perubahan Iklim Global Terhadap Kehidpuan",
-      "page_number": "28"
+      "chapter_name": "Daftar isi"
+      "page_number": "10"
     },
     {
       "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 3 : Karakteristik Iklim Indonesia Dan Lembaga-Lembaga Yang Menyediakan Dan Memanfaatkan Data Cuaca Dan Iklim Indonesia",
-      "page_number": "39"
+      "chapter_name": "Petunjuk Menggunakan Buku catatan"
+     "page_number": "12"
     },
     {
       "book_id": 6,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "51"
+      "chapter_name": "Bab 1: Penjabaran dan Pemfaktoran",
+      "page_number": "19"
+    },
+	{
+      "book_id": 6,
+      "chapter_name": "Bab 2: Akar Kuadrat",
+      "page_number": "53"
+    },
+	{
+      "book_id": 6,
+      "chapter_name": "Bab 3: Persamaan Kuadrat",
+      "page_number": "79"
+    },
+	{
+      "book_id": 6,
+      "chapter_name": "Bab 4: Fungsi y =ax2",
+      "page_number": "105"
     },
     {
       "book_id": 7,
-      "chapter_name": "Kata Pengantar",
-      "page_number": "3"
+      "chapter_name": "Prakata",
+      "page_number": "7"
     },
     {
       "book_id": 7,
       "chapter_name": "Daftar Isi",
-      "page_number": "6"
+      "page_number": "8"
     },
     {
       "book_id": 7,
-      "chapter_name": "Petunjuk penggunaan buku",
+      "chapter_name": "Petunjuk Penggunaan Buku",
       "page_number": "12"
     },
     {
