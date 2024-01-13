@@ -116,28 +116,23 @@
     },
     {
       "book_id": 3,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Kata Pengantar",
+      "page_number": "3"
     },
     {
       "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Konsep Nilai Mutlak",
-      "page_number": "8"
+      "chapter_name": "Daftar Isi",
+      "page_number": "7"
     },
     {
       "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Persamaan Nilai Mutlak Liner Satu Variabel",
-      "page_number": "14"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 3 : Pertidaksamaan Nilai Mutlak Linear Satu Variabel",
-      "page_number": "23"
+      "chapter_name": "Petunjuk Penggunaan Buku",
+      "page_number": "17"
     },
     {
       "book_id": 3,
       "chapter_name": "Daftar Pustaka",
-      "page_number": "33"
+      "page_number": "307"
     },
     {
       "book_id": 4,
