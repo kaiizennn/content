@@ -32,16 +32,16 @@
     },
     {
       "book_id": 2,
-      "book_name": "Kimia",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/kimia.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/kimia.webp",
+      "book_name": "Pendidikan Pancasila",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Pendidikan-Pancasila-BS-KLS-IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Pendidikan-Pancasila-BS-KLS-IX-Cover.png",
       "short_description": "Materi pada modul ini akan memberikan pengetahuan pada kalian tentang\nperkembangan model atom dari masa ke masa mulai dari teori atom kuno yang\ndikemukakan oleh Democritus, teori atom Dalton, J.J Thomson, Rutherford,Niels Bohr"
     },
     {
       "book_id": 3,
-      "book_name": "Matematika Umum",
-      "url_book": "pdf/matematika.pdf",
-      "url_cover_book": "file:///android_asset/image/matematika.jpg",
+      "book_name": "Matematika",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika_BS_KLS_IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Matematika_BS_KLS_IX_Cover.png",
       "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
     },
     {
