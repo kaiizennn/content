@@ -25,9 +25,9 @@
   "Book": [
     {
       "book_id": 1,
-      "book_name": "Bahasa Indonesia",
-      "url_book": "pdf/indonesia.pdf",
-      "url_cover_book": "file:///android_asset/image/indonesia.jpg",
+      "book_name": "Bahasa Indonesia Kelas IX",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Indonesia-BS-KLS-IX.pdf",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/Bahasa-Indonesia-BS-KLS-IX-Cover.png",
       "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
     },
     {
