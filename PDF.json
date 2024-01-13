@@ -101,8 +101,18 @@
     },
    {
       "book_id": 1,
-      "chapter_name": "Bab 4: Dari Hobi Menjadi Pundi-Pund",
+      "chapter_name": "Bab 4: Dari Hobi Menjadi Pundi-Pundi",
       "page_number": "113"
+    },
+    {
+      "book_id": 1,
+      "chapter_name": "Bab 4: Menuju Laut",
+      "page_number": "139"
+    },
+   {
+      "book_id": 1,
+      "chapter_name": "Bab 4: Merencanakan Masa Depan",
+      "page_number": "169"
     },
    {
       "book_id": 1,
