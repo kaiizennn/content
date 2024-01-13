@@ -60,9 +60,9 @@
     },
     {
       "book_id": 6,
-      "book_name": "Geografi",
-      "url_book": "pdf/geografi.pdf",
-      "url_cover_book": "file:///android_asset/image/geografi.jpg",
+      "book_name": "Ilmu Pengetahuan Sosial",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPS-BS-KLS-IX-Cover.png",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPS-BS-KLS-IX.pdf",
       "short_description": "Ketahanan Pangan, Industri, dan Energi meliputi: 1) Pengertian ketahanan pangan, bahan industri, serta energi baru dan terbarukan, 2) Potensi dan persebaran sumber daya pertanian, perkebunan, perikanan, dan peternakan untuk ketahanan pangan nasional."
     },
     {
