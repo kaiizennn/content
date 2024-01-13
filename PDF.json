@@ -67,9 +67,9 @@
     },
     {
       "book_id": 7,
-      "book_name": "PJOK",
-      "url_book": "pdf/pjok.pdf",
-      "url_cover_book": "file:///android_asset/image/pjok.jpg",
+      "book_name": "Ilmu Pengetahuan Alam",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/image/coverteks/coverkurikulum21/IPA-BS-KLS-IX-Cover.png",
+      "url_cover_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS-IX.pdf",
       "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
     }
   ],
@@ -211,18 +211,18 @@
     },
     {
       "book_id": 7,
-      "chapter_name": "Kegiatan Pembelajaran 1",
-      "page_number": "9"
+      "chapter_name": "Daftar Isi",
+      "page_number": "6"
     },
     {
       "book_id": 7,
-      "chapter_name": "Kegiatan Pembelajaran 2",
-      "page_number": "16"
+      "chapter_name": "Petunjuk penggunaan buku",
+      "page_number": "12"
     },
     {
       "book_id": 7,
       "chapter_name": "Daftar Pustaka",
-      "page_number": "27"
+      "page_number": "198"
     }
   ]
 }
