@@ -76,32 +76,32 @@
     {
       "id": 1,
       "name": "News",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/News.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
     },
     {
       "id": 2,
       "name": "Entertainment",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Entertaiment.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/entertainment.png"
     },
     {
       "id": 3,
       "name": "Religion",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Religion.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/religion.png"
     },
     {
       "id": 4,
       "name": "Regional",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Regional.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
     },
     {
       "id": 5,
       "name": "National",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/National.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/national.png"
     },
     {
       "id": 6,
       "name": "World",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/World.png"
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
     }
   ],
   "channels": [
@@ -110,8 +110,8 @@
       "category": "Entertainment, National",
       "title": "SCTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
-      "description": "SCTV (singkatan dari Surya Citra Televisi) adalah sebuah jaringan televisi swasta nasional di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di Jl. Darmo Permai, Surabaya, Jawa Timur. Meski tanggal itu ditetapkan sebagai tanggal lahir SCTV, tetapi baru pada Januari 1993, SCTV mendapatkan izin untuk bersiaran secara nasional. Sejak 29 Januari 1999, mayoritas saham SCTV dimiliki oleh Surya Citra Media. Pada awal Mei 2013, SCTV dan Indosiar resmi bergabung.",
-      "streaming_url": "https://live.rctiplus.id/rctiplus/inews_720p.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/sctv.mp4",
       "user_agent": ""
     },
     {
@@ -119,8 +119,8 @@
       "category": "Entertainment, National",
       "title": "RCTI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
-      "description": "RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan televisi swasta pertama di Indonesia. Didirikan awalnya sebagai perusahaan patungan antara Bimantara Citra dan Rajawali Wira Bhakti Utama, RCTI pertama mengudara pada 13 November 1988 dan diresmikan 24 Agustus 1989 pukul 13.30 WIB. Saat itu, siaran RCTI hanya dapat ditangkap oleh pelanggan yang memiliki dekoder dan membayar iuran setiap bulannya di Jakarta. RCTI melepas dekodernya pada 24 Agustus 1990, setahun setelah mulai mengudara secara resmi, yang menandakan dimulainya siarannya secara free-to-air walaupun masih berstatus stasiun televisi lokal. Tiga tahun kemudian, pada 24 Agustus 1993, RCTI resmi bersiaran secara nasional.",
-      "streaming_url": "https://rcdn.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": https://rcdn.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1709570508-2c2c97bb1da8974c175e30611a0cd79e-0-c7cb967e8c5136b4e59c0543e153e41f",
       "user_agent": ""
     },
     {
@@ -128,26 +128,26 @@
       "category": "Entertainment, National",
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
-      "description": "GTV (pelafalan dalam bahasa Indonesia: [dʒitifi], sebelumnya bernama Global TV) adalah salah satu jaringan televisi swasta nasional di Indonesia. Berawal dari televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya. Pada tanggal 11 Oktober 2017, Global TV berganti nama menjadi seperti sekarang dalam rangka acara ulang tahun yang bernama Amazing.",
-      "streaming_url": "https://11---mrd-scontent-sin6-1rr2---sn-npoeenl7.kuroplayer.xyz/hls/videos/cWnoUKp6Bzx87p7uoYn7cg/1705104000/server1/1/b9b31dd61899b6403095aa5a3f49e8bf/v_360p/index-v1-a1.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/gtv.mp4",
       "user_agent": ""
     },
     {
       "id": 4,
       "category": "Entertainment, National",
-      "title": "Trans7",
+      "title": "Trans 7",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
-      "description": "Trans7 (sebelumnya bernama TV7) adalah sebuah jaringan televisi swasta nasional di Indonesia. Trans7 yang pada awalnya menggunakan nama TV7, melakukan siaran perdananya secara terestrial di Jakarta pada 25 November 2001 pukul 17:00 WIB. Pada tanggal 4 Agustus 2006, Trans Corp menjajaki kerja sama strategis dengan Kompas Gramedia untuk mengakuisisi saham TV7 dan melakukan relaunch (peluncuran ulang) pada tanggal 15 Desember 2006 pukul 19:00 WIB menggunakan nama baru, menjadi Trans",
-      "streaming_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1785191647_b544100_sleng.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/trans7.mp4",
       "user_agent": ""
     },
     {
       "id": 5,
       "category": "Regional",
-      "title": "Jak TV",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/jaktv.png",
-      "description": "Jak TV adalah sebuah stasiun televisi swasta lokal di Indonesia yang memfokuskan siarannya di wilayah Jabodetabek. Stasiun televisi yang dimiliki oleh MahakaX ini menargetkan penonton primer berusia 30 tahun keatas dan penonton sekunder berusia 20 tahun keatas. Jak TV mengudara untuk pertama kalinya dalam bentuk siaran ujicoba pada tanggal 31 Oktober 2004, pukul 19.00 WIB di Jakarta.",
-      "streaming_url": "https://cdn11jtedge.indihometv.com/atm/HLS-10s/JAK_TV/JAK_TV-avc1_400000=7.m3u8?encp=l2mPLDuoVLO36Pd5xB-zoA&uid=&expp=1704946363",
+      "title": "ADI TV",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
       "user_agent": ""
     },
     {
@@ -155,8 +155,8 @@
       "category": "News, National",
       "title": "Berita Satu",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
-      "description": "BTV adalah sebuah jaringan televisi swasta digital di Indonesia. Sebelumnya sempat bernama Q Channel, QTV dan BeritaSatu yang berfokus pada penonton televisi berlangganan dan kalangan menengah ke atas, mulai 11 Oktober 2022, namanya berganti menjadi nama saat ini, dan siarannya mulai dapat disaksikan di berbagai daerah di Indonesia.",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709567376/ei/MJnlZczBDfnl4-EPv8a7kAg/ip/2404%3Ac0%3A7550%3A0%3A0%3A1%3A7d6f%3A9e81/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyTIGELP3vwj-IcTod3awcKtXFYB6GBnPfCW3xaUHN_49qFOyv42PcRH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHJ4mu6v_E-9YkW6HZKtLRoxUHAGS_2C22Qm30qxq6LQCIQDZItfZWma9j7nsAOEvl4-AK3LJRI0r7KRlXljPsxfG4g%3D%3D/file/index.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
       "user_agent": ""
     },
     {
@@ -164,8 +164,8 @@
       "category": "Religion",
       "title": "Rodja TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
-      "description": "Radio Rodja adalah sebuah jaringan radio Islam Sunni Salafiyah di Indonesia, dengan stasiun radio AM sebagai stasiun induk berpusat di Kampung Tengah, Cileungsi, Bogor. Jaringan ini dimiliki oleh Yayasan Cahaya Sunnah. Radio Rodja dapat diakses pada frekuensi 756 AM untuk wilayah Jabodetabek. Selain itu, radio ini juga mengudara di beberapa kota seperti Bandung, Majalengka, Kebumen, Tanjungpinang, Pontianak, Lampung dan Berau. Siaran radio ini secara umum menyiarkan kajian-kajian dakwah mengenai ibadah sehari-hari serta pembahasan mengenai Al-Qur'an dan hadis.",
-      "streaming_url": "https://rodjatv.com/rodjatv/live_360p878kbs/index.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://vids.rodja.tv:1935/live/rodja/chunklist_w1534883362.m3u8",
       "user_agent": ""
     },
     {
@@ -173,8 +173,8 @@
       "category": "National",
       "title": "TVRI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvri.png",
-      "description": "Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang No. 32/2002 tentang Penyiaran. TVRI merupakan jaringan televisi pertama di Indonesia, mulai mengudara pada tanggal 24 Agustus 1962 dan diperingati sebagai Hari Televisi Nasional. TVRI memonopoli siaran televisi di Indonesia hingga tahun 1989, ketika televisi swasta pertama Indonesia, yakni RCTI, didirikan.",
-      "streaming_url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8",
       "user_agent": ""
     },
     {
@@ -182,8 +182,8 @@
       "category": "Religion, World",
       "title": "Aljazeera",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aljazeera.png",
-      "description": "Al Jazeera (الجزيرة yang berarti pulau atau jazirah ) adalah stasiun televisi berbahasa Arab dan Inggris yang berbasis di Doha, Qatar. Stasiun TV ini menjadi populer setelah serangan 11 September 2001, ketika stasiun ini menyiarkan rekaman pernyataan Osama bin Laden dan pimpinan al-Qaeda lainnya. Selain saluran berita utama, Al Jazeera juga mengoperasikan beberapa saluran TV khusus lainnya, antara lain Al Jazeera English, Al Jazeera Sports, Al Jazeera Live, dan Al Jazeera Children's Channel. Selain itu, Al Jazeera juga mengoperasikan situs web berita berbahasa Arab dan Inggris.",
-      "streaming_url": "https://etslive-2-vidio-com.secureswiftcontent.com/exp=1704951433~acl=/hls-p/ingest_6410_*/*~hmac=2124c5c5c541b0e10af77503c8a7c48ee1e78c7a427f531a0be9ae135dc2c5c6/hls-p/ingest_6410_480p/index.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://live-hls-web-aje.getaj.net/AJE/06.m3u8",
       "user_agent": ""
     },
     {
@@ -191,8 +191,8 @@
       "category": "Entertainment, National",
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
-      "description": "MNCTV (pelafalan dalam bahasa Indonesia: [emensi tifi], singkatan dari Media Nusantara Citra Televisi, sebelumnya bernama TPI, pelafalan dalam bahasa Indonesia: [tepeʔi]) adalah sebuah jaringan televisi swasta nasional di Indonesia. Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB. MNCTV merupakan televisi swasta ketiga di Indonesia setelah RCTI dan SCTV. MNCTV didirikan oleh Mbak Tutut dan dulu sebagian besar sahamnya dimiliki oleh PT Citra Lamtoro Gung Persada.",
-      "streaming_url": "https://mnccdn-t.rctiplus.id/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8?auth_key=1704954324-c03ad24850f3fcecd6dbc581ea91b177-0-08d4e9d42b0e64637554b6e0881f06c0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/mnctv.mp4",
       "user_agent": ""
     },
     {
@@ -200,8 +200,8 @@
       "category": "Entertainment, News, National",
       "title": "Indosiar",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/indosiar.png",
-      "description": "Indosiar (secara resmi bernama Indosiar Visual Mandiri, disingkat IVM) adalah salah satu jaringan televisi swasta nasional di Indonesia, yang beroperasi dari Daan Mogot, Jakarta Barat sejak tahun 1995. Awalnya didirikan dan dikuasai oleh Salim Group, sejak tahun 2011, kepemilikan Indosiar berada di bawah PT Elang Mahkota Teknologi Tbk yang membuatnya bersaudara dengan SCTV.",
-      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704950822~acl=/hls-p/ingest_205_*/*~hmac=5003d7d7721a8c1e11539e49811d5699e0b162e07a5e061928969c49665df243/hls-p/ingest_205_360p/index.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/indosiar.mp4",
       "user_agent": ""
     },
     {
@@ -209,8 +209,8 @@
       "category": "News",
       "title": "TV ONE",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvone.png",
-      "description": "tvOne (pengucapan bahasa Inggris: [tifi wan]) adalah sebuah jaringan televisi swasta nasional di Indonesia yang berfokus pada konten berita. Berawal dari penggunaan nama Lativi, jaringan televisi ini diluncurkan pada tanggal 30 Juli 2002 dan awalnya dimiliki oleh ALatief Corporation, milik pengusaha Abdul Latief. Sempat dikenal dengan programnya yang berbasis klenik, erotisme, berita kriminalitas dan beberapa hiburan ringan lainnya, sejak tahun 2007, saham mayoritas dan pengelolaan Lativi tidak lagi dikuasai oleh Latief.",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709568650/ei/Kp7lZbSLIa_Y4-EPte2MyAs/ip/2404%3Ac0%3A7550%3A0%3A0%3A1%3A7d6f%3A9e81/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0dp9kvUTgnEDSeO4iN4mqOuEUa2FudowAfiKfwtJ6IqH5p7o0u_-A96/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSM6sBC5mclMMXXGhh9cDEdlsnpekDujcfALPGNtPqJUCICbB20S1pl4_Ob7cjeMbEZRNX4OUuMVsZYTRsa9XwrRr/file/index.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/tvone.mp4",
       "user_agent": ""
     },
     {
@@ -218,8 +218,8 @@
       "category": "Entertainment, National",
       "title": "Trans TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/transtv.png",
-      "description": "Trans TV (singkatan dari Televisi Transformasi Indonesia, digayakan sebagai TRΛNSTV)[1] adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media. Berkantor pusat di Gedung Trans TV, Jalan Kapten Pierre Tendean, Jakarta Selatan dan memiliki moto Milik Kita Bersama, konsep tayangnya tidak banyak berbeda dengan televisi swasta lainnya. Direktur Utama Trans TV saat ini adalah Atiek Nur Wahyuni yang juga merupakan Direktur Utama Trans7.",
-      "streaming_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2019895764_b544100_sleng.m3u8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/transtv.mp4",
       "user_agent": ""
     },
     {
@@ -227,70 +227,16 @@
       "category": "World, News",
       "title": "CBS News",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
-      "description": "CBS merupakan Jaringan televisi dan radio di Amerika Serikat. Jaringan ini melakukan siaran pertama kali pada 1927 (radio), dan 1941 (televisi). Kantor pusat sekaligus stasiun lokal flagship televisi ini berada di New York dan konsep acaranya tidak banyak berubah dengan televisi lainnya.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
       "user_agent": ""
     },
     {
       "id": 15,
-      "category": "World, News",
-      "title": "Bali Tv",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/bali%20tv.png",
-      "description": "Bali TV adalah stasiun televisi lokal swasta di Indonesia yang berpusat di Bali, berdiri di bawah kepemimpinan Satria Naradha yang merupakan pemimpin Kelompok Media Bali Post. Kekuatan daya pancar pada saat siaran analog masih aktif adalah 10 kilowatt yang dipancarkan dari Bukit Bakung, desa Kutuh, kecamatan Kuta Selatan, kabupaten Badung di kanal 49 UHF untuk wilayah Denpasar.",
-      "streaming_url": "https://cdngb196.indihometv.com/joss/134/balitv/chunklist_w48015513_b1004100_sleng.m3u8?enc=MVNsKJbaCOuRfYzMmgI3Qw&uid=&exp=1704945877",
-      "user_agent": ""
-    },
-	{
-      "id": 16,
-      "category": "World, News",
-      "title": "Moji Tv",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/moji.png",
-      "description": "Moji (digayakan sebagai mOȷı, sebelumnya bernama O Channel) adalah sebuah jaringan televisi swasta di Indonesia yang dimiliki oleh PT Elang Mahkota Teknologi Tbk. O Channel resmi mengudara pada tanggal 16 Juni 2005 di Jakarta, dan mengganti namanya menjadi nama saat ini pada tanggal 21 Agustus 2022.",
-      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704951761~acl=/hls-p/ingest_206_*/*~hmac=65ef3ad25154f77594bb7f9d4899def22564ee8bb3f82e8ecadbeae78cd01787/hls-p/ingest_206_360p/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 17,
-      "category": "World, News",
-      "title": "NHK World Japan",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/nhk.png",
-      "description": "NHK World-Japan adalah layanan penyiaran internasional dari badan penyiaran umum Jepang NHK yang ditransmisikan melalui televisi, radio, dan Internet. Layanan ini ditujukan untuk pasar internasional, ditayangkan melalui satelit dan operator televisi kabel di seluruh dunia, serupa dengan BBC World News, Deutsche Welle, France 24, dan RT.",
-      "streaming_url": "https://origin-cae-d568794.cdn.nextologies.com/00489ab02a9d71cc/wXfEzh7gCnHgIYYY/cfc0a62dTe93673d/playlist.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 18,
-      "category": "World, News",
-      "title": "Metro Tv",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Metro.png",
-      "description": "MetroTV adalah sebuah jaringan televisi swasta berita yang berkedudukan di Indonesia. MetroTV didirikan oleh PT Media Televisi Indonesia, resmi mengudara sejak 25 November 2000 di Jakarta. Pada awalnya didirikan sebagai perusahaan patungan antara Media Group dan Bimantara Citra, sejak Oktober 2003 MetroTV seluruhnya dimiliki oleh Media Group; yang juga memiliki harian Media Indonesia dan Lampung Post.",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709567991/ei/l5vlZYX-HpDf4-EPhvOjoA4/ip/2404%3Ac0%3A7440%3A0%3A0%3A1%3Aaec2%3Aa39c/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f2AUfkRve5qiwrIuLyb8ePCwintd8Zw0p91POnFl54opzMiEWBMGsllu/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJee1Kk41roPqvowcaEYJ7--56M-wI9reQAQYCf1RgEcAiEAhrtngs3q_HN1yDf1JnCXsdsdKtv1oxxVr8r-7yR1zUw%3D/file/index.m3u8",
-      "user_agent": ""
-    },
-	  {
-      "id": 19,
-      "category": "World, News",
-      "title": "Kompas Tv",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/kompas.png",
-      "description": "Kompas TV adalah salah satu jaringan televisi swasta nasional di Indonesia yang berfokus pada konten berita. Kompas TV dimiliki oleh KG Media, anak usaha Kompas Gramedia. Diluncurkan awalnya sebagai penyedia konten dengan acara-acara berbasis hiburan pada 9 September 2011, perlahan-lahan statusnya berubah menjadi sebuah jaringan televisi, dan sejak 2016 acaranya menjadi berbasis berita sampai saat ini. Nama Kompas TV diambil dari surat kabar papan atas yang dimiliki oleh Kompas Gramedia, yaitu harian Kompas.",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709567376/ei/MJnlZczBDfnl4-EPv8a7kAg/ip/2404%3Ac0%3A7550%3A0%3A0%3A1%3A7d6f%3A9e81/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyTIGELP3vwj-IcTod3awcKtXFYB6GBnPfCW3xaUHN_49qFOyv42PcRH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHJ4mu6v_E-9YkW6HZKtLRoxUHAGS_2C22Qm30qxq6LQCIQDZItfZWma9j7nsAOEvl4-AK3LJRI0r7KRlXljPsxfG4g%3D%3D/file/index.m3u8","",
-      "user_agent": ""
-    },
-    {
-      "id": 20,
-      "category": "World, News",
-      "title": "RTv",
-      "image": "https://raw.githubusercontent.com/kaiizennn/image-upload/main/Rtv.png",
-      "description": "RTV (pelafalan dalam bahasa Indonesia: [ɛrtifi], singkatan dari Rajawali Televisi, digayakan dengan semuanya huruf kecil) adalah sebuah jaringan televisi swasta nasional di Indonesia yang dimiliki oleh Rajawali Corpora. Resmi mengudara pada tanggal 1 November 2009 di Jakarta dengan nama B-Channel, pada tanggal 3 Mei 2014, namanya berganti menjadi RTV. Saat ini, program RTV lebih difokuskan pada acara hiburan, terutama untuk anak-anak dan keluarga.",
-      "streaming_url": "https://etslive-2-vidio-com.akamaized.net/exp=1704960825~acl=/hls-p/ingest_1561_*/*~hmac=8b0e96994c9c854aebf796d2e493295b2a7c5073343499eb3793268bda4d84af/hls-p/ingest_1561_480p/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 21,
       "category": "News, National",
       "title": "CNN Indonesia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
-      "description": "CNN Indonesia adalah sebuah jaringan televisi berita digital gratis dan berbayar (di Transvision dan IndiHome TV), serta situs berita milik Trans Media dengan mengambil lisensi nama CNN dari Warner Bros. Discovery (melalui Warner Bros. Discovery Asia-Pacific).[4] Saluran ini disiarkan pertama kalinya pada Senin, 17 Agustus 2015. Peluncuran utamanya berlangsung sejak 15 Desember 2015 dalam rangka memperingati ulang tahun Trans Media yang ke-14.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8",
       "user_agent": ""
     }
@@ -298,21 +244,21 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Daftar Solar Subsidi",
-      "image": "https://play-lh.googleusercontent.com/ggSXv6DMKy_jFo_sYUG7M8Mjh7RMdmUMjkl46mlB801aQOhwwZQkWClhhmc7BtWHO5Q=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.arsydev.cara_daftar_bbm_pertalite_subsidi"
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     },
     {
       "id": 2,
-      "title": "Daftar Shopeefood driver",
-      "image": "https://play-lh.googleusercontent.com/s8E6jmlp8u6xmKa9-P2bF885Ag2bT1-se7tLLZb0Pw-RaC9cWtWmBmbGw-oQRqQuSQ=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.arsydev.daftar_shopeefood_driver_online"
+      "title": "Stream Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
     },
     {
       "id": 3,
-      "title": "Cara Daftar Pinjol",
-      "image": "https://play-lh.googleusercontent.com/r1Q4Pt8UNsKNS6nWEdCPTGTlWjAVGo39GJaahOPHTOfjMHNUQ5_4TNP30gF47bV2A5g=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.arsydev.pinjol_cepat_cair_24jam"
+      "title": "WebView Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
     }
   ]
 }
