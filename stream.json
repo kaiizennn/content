@@ -156,7 +156,7 @@
       "title": "Berita Satu",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
       "description": "BTV adalah sebuah jaringan televisi swasta digital di Indonesia. Sebelumnya sempat bernama Q Channel, QTV dan BeritaSatu yang berfokus pada penonton televisi berlangganan dan kalangan menengah ke atas, mulai 11 Oktober 2022, namanya berganti menjadi nama saat ini, dan siarannya mulai dapat disaksikan di berbagai daerah di Indonesia.",
-      "streaming_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709567376/ei/MJnlZczBDfnl4-EPv8a7kAg/ip/2404%3Ac0%3A7550%3A0%3A0%3A1%3A7d6f%3A9e81/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyTIGELP3vwj-IcTod3awcKtXFYB6GBnPfCW3xaUHN_49qFOyv42PcRH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHJ4mu6v_E-9YkW6HZKtLRoxUHAGS_2C22Qm30qxq6LQCIQDZItfZWma9j7nsAOEvl4-AK3LJRI0r7KRlXljPsxfG4g%3D%3D/file/index.m3u8",
       "user_agent": ""
     },
     {
