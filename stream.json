@@ -174,7 +174,7 @@
       "title": "TVRI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvri.png",
       "description": "Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang No. 32/2002 tentang Penyiaran. TVRI merupakan jaringan televisi pertama di Indonesia, mulai mengudara pada tanggal 24 Agustus 1962 dan diperingati sebagai Hari Televisi Nasional. TVRI memonopoli siaran televisi di Indonesia hingga tahun 1989, ketika televisi swasta pertama Indonesia, yakni RCTI, didirikan.",
-      "streaming_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream1/streamPlaylist.m3u8",
+      "streaming_url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8",
       "user_agent": ""
     },
     {
